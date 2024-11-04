@@ -49,7 +49,12 @@ _Folder structure_
 
 **outPut is **
 
-<source src="C:\Users\Harish\OneDrive\Desktop\PROJECTS\cosmetic website\output video.mp4" >
+the landing pa
+
+## Demo Video
+
+["C:\Users\Harish\OneDrive\Desktop\PROJECTS\cosmetic website\output video.mp4"](https://github.com/charannaik07N/cosmetic-website/blob/main/assets/output-video.mp4)
+
 
 **License**
 This project is open-source and available under the MIT License.
