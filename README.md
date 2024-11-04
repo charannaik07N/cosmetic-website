@@ -1,3 +1,7 @@
+**Cosometic Website**
+
+
+
 **Glowing - Reveal The Beauty of Skin**
 Welcome to Glowing – a cosmetic e-commerce website designed to highlight beauty products made from clean, non-toxic ingredients. This project showcases a modern, responsive layout with multiple sections and interactive elements to enhance the user experience.
 
@@ -45,7 +49,7 @@ _Folder structure_
 
 **outPut is **
 
-<source src="C:\Users\Harish\OneDrive\Desktop\PROJECTS\cosmetic website\output video.mp4" 
+<source src="C:\Users\Harish\OneDrive\Desktop\PROJECTS\cosmetic website\output video.mp4" >
 
 **License**
 This project is open-source and available under the MIT License.
