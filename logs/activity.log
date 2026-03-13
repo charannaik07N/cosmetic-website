@@ -11,3 +11,4 @@
 [2026-03-12T15:54:09.728Z] fix broken redirect after authentication
 [2026-03-13T03:56:39.673Z] enable parallel test execution in pipeline
 [2026-03-13T05:13:55.999Z] add snapshot tests for response formats
+[2026-03-13T06:18:22.756Z] update error messages to be more user-friendly
