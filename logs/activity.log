@@ -9,3 +9,4 @@
 [2026-03-11T09:28:53.291Z] update error messages to be more user-friendly
 [2026-03-12T09:10:01.692Z] add webhook notification support
 [2026-03-12T15:54:09.728Z] fix broken redirect after authentication
+[2026-03-13T03:56:39.673Z] enable parallel test execution in pipeline
