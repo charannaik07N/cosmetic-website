@@ -18,3 +18,4 @@
 [2026-03-14T11:22:43.711Z] fix flaky build caused by parallel test collision
 [2026-03-14T15:39:24.483Z] reduce bundle size by tree-shaking unused imports
 [2026-03-15T05:38:58.210Z] fix memory leak in event listener cleanup
+[2026-03-15T07:47:37.098Z] correct off-by-one error in pagination logic
