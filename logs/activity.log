@@ -7,3 +7,4 @@
 [2026-03-16T14:29:21.483Z] add support for custom log levels
 [2026-03-17T05:52:55.587Z] improve error code reference table
 [2026-03-17T12:46:53.006Z] configure pre-commit hooks for linting
+[2026-03-17T15:04:20.358Z] fix memory leak in event listener cleanup
