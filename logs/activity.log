@@ -15,3 +15,4 @@
 [2026-03-20T08:33:42.168Z] resolve null pointer in user validation
 [2026-03-21T07:46:51.654Z] optimize startup sequence to reduce cold boot time
 [2026-03-21T10:01:25.414Z] extract validation into separate module
+[2026-03-21T15:27:05.663Z] add usage examples to README
