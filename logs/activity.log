@@ -17,3 +17,4 @@
 [2026-03-21T10:01:25.414Z] extract validation into separate module
 [2026-03-21T15:27:05.663Z] add usage examples to README
 [2026-03-22T07:40:18.086Z] validate error responses match schema
+[2026-03-22T10:59:18.330Z] resolve null pointer in user validation
