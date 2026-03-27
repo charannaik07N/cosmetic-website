@@ -3,3 +3,4 @@
 [2026-03-25T06:21:30.944Z] fix memory leak in event listener cleanup
 [2026-03-26T05:18:09.945Z] switch from moment.js to native Date handling
 [2026-03-27T05:33:13.499Z] configure auto-deploy for staging branch
+[2026-03-27T07:11:19.953Z] update changelog for v2.1 release
