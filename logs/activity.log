@@ -5,3 +5,4 @@
 [2026-03-31T16:01:33.656Z] bugretry logic was skipping last attempt
 [2026-03-31T16:15:20.380Z] implement in-memory caching layer
 [2026-04-01T05:14:10.932Z] add JSDoc comments to public API methods
+[2026-04-01T09:13:45.769Z] move business logic out of controller
