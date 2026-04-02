@@ -8,3 +8,4 @@
 [2026-04-01T09:13:45.769Z] move business logic out of controller
 [2026-04-01T12:12:41.294Z] adjust logging verbosity for production mode
 [2026-04-01T14:21:33.805Z] resolve null pointer in user validation
+[2026-04-02T13:48:14.104Z] add tests for rate limiter logic
