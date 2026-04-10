@@ -7,3 +7,4 @@
 [2026-04-08T05:24:10.342Z] resolve flaky timeout in database connection
 [2026-04-09T12:44:11.761Z] optimize JSON serialization for large payloads
 [2026-04-09T13:58:01.323Z] update changelog for v2.1 release
+[2026-04-10T04:26:06.062Z] implement graceful shutdown on SIGTERM
