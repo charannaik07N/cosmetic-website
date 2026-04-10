@@ -8,3 +8,4 @@
 [2026-04-09T12:44:11.761Z] optimize JSON serialization for large payloads
 [2026-04-09T13:58:01.323Z] update changelog for v2.1 release
 [2026-04-10T04:26:06.062Z] implement graceful shutdown on SIGTERM
+[2026-04-10T11:38:02.195Z] set up environment config for staging deployment
