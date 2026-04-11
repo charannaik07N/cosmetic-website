@@ -12,3 +12,4 @@
 [2026-04-10T11:57:13.406Z] fix memory leak in event listener cleanup
 [2026-04-11T12:37:21.119Z] fix flaky build caused by parallel test collision
 [2026-04-11T13:56:24.468Z] optimize startup sequence to reduce cold boot time
+[2026-04-11T16:39:37.225Z] add fallback for browsers without WebSocket support
