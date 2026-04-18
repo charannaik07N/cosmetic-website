@@ -10,3 +10,4 @@
 [2026-04-17T14:43:27.541Z] add JSDoc comments to public API methods
 [2026-04-18T04:37:23.235Z] split build and test stages for faster feedback
 [2026-04-18T05:35:31.814Z] update ESLint config with stricter rules
+[2026-04-18T12:21:33.827Z] add response compression middleware
