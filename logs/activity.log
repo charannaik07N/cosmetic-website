@@ -1,3 +1,4 @@
 [2026-04-27T05:31:02.699Z] fix token refresh not updating stored credentials
 [2026-04-28T08:03:09.689Z] add Prometheus metrics endpoint
 [2026-04-28T09:27:23.223Z] configure log rotation for production
+[2026-04-29T06:35:59.688Z] move business logic out of controller
