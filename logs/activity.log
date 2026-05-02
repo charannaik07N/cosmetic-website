@@ -12,3 +12,4 @@
 [2026-05-01T13:27:35.287Z] bump Node.js version to LTS release
 [2026-05-01T14:03:05.367Z] optimize JSON serialization for large payloads
 [2026-05-02T04:01:05.110Z] add pagination support to list endpoints
+[2026-05-02T11:30:01.719Z] add contributing guidelines
