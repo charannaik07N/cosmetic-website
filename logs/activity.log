@@ -4,3 +4,4 @@
 [2026-05-06T12:51:44.703Z] configure log rotation for production
 [2026-05-06T14:55:40.373Z] fix typo in inline documentation
 [2026-05-06T15:34:41.868Z] implement input sanitization middleware
+[2026-05-07T06:11:20.194Z] remove polyfills no longer needed
