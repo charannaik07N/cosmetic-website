@@ -7,3 +7,4 @@
 [2026-05-07T06:11:20.194Z] remove polyfills no longer needed
 [2026-05-07T16:51:32.426Z] fix test data setup for isolated test runs
 [2026-05-08T09:56:11.372Z] enforce trailing commas in config
+[2026-05-08T14:23:53.890Z] update dependencies to latest stable
