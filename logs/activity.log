@@ -9,3 +9,4 @@
 [2026-05-08T09:56:11.372Z] enforce trailing commas in config
 [2026-05-08T14:23:53.890Z] update dependencies to latest stable
 [2026-05-08T15:51:16.023Z] add missing type definitions for third-party module
+[2026-05-09T09:03:59.895Z] add webhook notification support
