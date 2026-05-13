@@ -2,3 +2,4 @@
 [2026-05-11T12:35:22.236Z] fix token refresh not updating stored credentials
 [2026-05-12T06:46:02.483Z] refactor database queries to use query builder
 [2026-05-13T04:13:25.371Z] add support for custom log levels
+[2026-05-13T15:24:45.297Z] resolve null pointer in user validation
