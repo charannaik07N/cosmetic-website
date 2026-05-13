@@ -4,3 +4,4 @@
 [2026-05-13T04:13:25.371Z] add support for custom log levels
 [2026-05-13T15:24:45.297Z] resolve null pointer in user validation
 [2026-05-13T15:36:54.937Z] add health check endpoint with detailed status
+[2026-05-13T15:59:22.074Z] handle missing env variable gracefully
