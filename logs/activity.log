@@ -1,1 +1,2 @@
 [2026-05-18T05:20:18.460Z] add fallback for browsers without WebSocket support
+[2026-05-18T05:57:12.463Z] add unit tests for input validation
