@@ -10,3 +10,4 @@
 [2026-05-21T09:36:01.640Z] bugretry logic was skipping last attempt
 [2026-05-21T09:54:50.203Z] fix edge case when input array is empty
 [2026-05-21T10:09:02.963Z] refactor config loading to support multiple envs
+[2026-05-22T06:33:10.113Z] validate error responses match schema
