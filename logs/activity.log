@@ -2,3 +2,4 @@
 [2026-05-26T11:56:10.261Z] fix import ordering to match project convention
 [2026-05-26T13:47:17.030Z] update GitHub Actions workflow to Node 20
 [2026-05-27T07:07:16.171Z] correct regex pattern for email validation
+[2026-05-28T12:54:01.004Z] fix flaky test caused by timing dependency
