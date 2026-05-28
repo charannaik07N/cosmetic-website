@@ -3,3 +3,4 @@
 [2026-05-26T13:47:17.030Z] update GitHub Actions workflow to Node 20
 [2026-05-27T07:07:16.171Z] correct regex pattern for email validation
 [2026-05-28T12:54:01.004Z] fix flaky test caused by timing dependency
+[2026-05-28T16:56:03.282Z] add webhook notification support
