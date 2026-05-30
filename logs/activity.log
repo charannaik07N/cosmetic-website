@@ -7,3 +7,4 @@
 [2026-05-29T14:45:44.175Z] update lock file after dependency audit
 [2026-05-29T15:00:15.559Z] switch from moment.js to native Date handling
 [2026-05-30T07:04:28.305Z] add unit tests for input validation
+[2026-05-30T07:16:33.584Z] introduce dark mode toggle
